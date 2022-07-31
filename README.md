@@ -61,6 +61,3 @@ kill명령어 뒤에 %번호를 입력하여 종료시킬 수 있다.
 5) @@를 누르면 가장 마지막에 재생된 매크로가 재생된다.
 
 ![image](https://user-images.githubusercontent.com/104602224/171885242-6ef2ee4c-45b9-4b04-9589-3ae01e784757.jpeg)
-
-
-03._.sim
